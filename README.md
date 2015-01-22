@@ -1,1 +1,1 @@
-# OS-X-Terminal-Themes
+My OS-X-Terminal-Themes
